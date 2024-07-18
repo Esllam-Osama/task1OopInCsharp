@@ -1,0 +1,14 @@
+E:\learnC#\tasks\task1Oop\task1Oop\bin\Debug\net8.0\task1Oop.exe
+E:\learnC#\tasks\task1Oop\task1Oop\bin\Debug\net8.0\task1Oop.deps.json
+E:\learnC#\tasks\task1Oop\task1Oop\bin\Debug\net8.0\task1Oop.runtimeconfig.json
+E:\learnC#\tasks\task1Oop\task1Oop\bin\Debug\net8.0\task1Oop.dll
+E:\learnC#\tasks\task1Oop\task1Oop\bin\Debug\net8.0\task1Oop.pdb
+E:\learnC#\tasks\task1Oop\task1Oop\obj\Debug\net8.0\task1Oop.GeneratedMSBuildEditorConfig.editorconfig
+E:\learnC#\tasks\task1Oop\task1Oop\obj\Debug\net8.0\task1Oop.AssemblyInfoInputs.cache
+E:\learnC#\tasks\task1Oop\task1Oop\obj\Debug\net8.0\task1Oop.AssemblyInfo.cs
+E:\learnC#\tasks\task1Oop\task1Oop\obj\Debug\net8.0\task1Oop.csproj.CoreCompileInputs.cache
+E:\learnC#\tasks\task1Oop\task1Oop\obj\Debug\net8.0\task1Oop.dll
+E:\learnC#\tasks\task1Oop\task1Oop\obj\Debug\net8.0\refint\task1Oop.dll
+E:\learnC#\tasks\task1Oop\task1Oop\obj\Debug\net8.0\task1Oop.pdb
+E:\learnC#\tasks\task1Oop\task1Oop\obj\Debug\net8.0\task1Oop.genruntimeconfig.cache
+E:\learnC#\tasks\task1Oop\task1Oop\obj\Debug\net8.0\ref\task1Oop.dll
